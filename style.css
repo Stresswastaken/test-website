@@ -17,3 +17,7 @@ p {
   flex-direction: column;
   align-items: center;
 }
+
+.big-text {
+  font-size: 30px;
+}
